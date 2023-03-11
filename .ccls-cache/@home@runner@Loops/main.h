@@ -1,0 +1,1 @@
+int time_table(int n);
